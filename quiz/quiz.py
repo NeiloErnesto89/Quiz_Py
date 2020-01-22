@@ -39,7 +39,6 @@ def ask_question():
    #What is Inertia?
    # Inertia is when an object remains at rest or in motion, unless acted upon!    
         
-
 def add_question():
     print("")
     question = input("Enter a question\n> ")
